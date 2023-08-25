@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_fragment_news.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\menu_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\menu\\navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_video.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_website.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_website.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_baseline_map_24.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\baseline_map_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\font_belanosimasemibold.ttf.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\font\\belanosimasemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_color.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_no_data_found.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\no_data_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_fragment_faculty.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\fragment_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_about.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_full_image_view.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\full_image_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_gallerynew.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_gallerynew.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_activity_ebook.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\activity_ebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_developer.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_developer.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_label.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_faculty.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_faculty.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_avatarprofile.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\avatarprofile.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_shimmer_for_ebbok.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\shimmer_for_ebbok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_ebook_item_layout.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\ebook_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\font_belanosimaregular.ttf.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\font\\belanosimaregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_gallery.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_rate.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.smvitstudentapp-merged_res-46:/layout_fragment_about.xml.flat",
+        "source": "com.example.smvitstudentapp-main-48:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_newsnew.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_newsnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_mech.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_mech.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_facultynew.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_facultynew.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_gallery_image.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\gallery_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\menu_bottom_navbar.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\menu\\bottom_navbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_aboutnew.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_aboutnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_cmp.jpg.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\cmp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_ebook.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_ebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_faculty_item_layout.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\faculty_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_themes.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_themes.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_newsfeed_item_layout.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\newsfeed_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_homenew.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_homenew.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_baseline_local_phone_24.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_activity_pdf_viewer.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\activity_pdf_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_share.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_branch_item_layout.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\branch_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_comp.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_mapimage.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\mapimage.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\drawable_ic_elec.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\drawable\\ic_elec.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-merged_res-46:\\font_belanosimabold.ttf.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitstudentapp-main-48:\\font\\belanosimabold.ttf"
+    }
+]

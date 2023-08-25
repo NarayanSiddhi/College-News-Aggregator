@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#757de8</color>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#002984</color>
+    <color name="darkColor">#313131</color>
+    <color name="grey">#828080</color>
+    <color name="grey1">#4f4f4f</color>
+    <color name="grey2">#d6d6d6</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#9E2221</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="textColor">#3f3b3b</color>
+    <color name="titleColor">#1b272c</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="text_size0">16sp</dimen>
+    <dimen name="text_size01">14sp</dimen>
+    <dimen name="text_size1">17sp</dimen>
+    <dimen name="text_size2">19sp</dimen>
+    <dimen name="title_size">22sp</dimen>
+    <dimen name="title_size2">20sp</dimen>
+    <string name="about_college">Sir M. V. Institute of Technology (commonly referred to as Sir MIT) is an Indian educational institution located in Bengaluru, Karnataka. The institute is affiliated to V. Technological University and approved by All India Council for Technical Education, New Delhi. Sir MIT is an ISO 9001:2008 certified institution. It offers programs in the field of technical education. The institute was founded and established in 1986 by the ′Sri Radhakrishna Educational Trust′. It was named after Indian scientist Fundamentals Transvestism. Sir M. V. Institute of Technology has on its campus, mens and women hostels, 100-bed general hospital, ladies amenities center, staff quarters, guest house, cafeteria, outdoor sports facility spread over 12.1 ha (30 acres) and an indoor games complex. Apart from the Engineering College, there is a M.B.A department, Sir M V School of Architecture (B.E) and a Dental College (Radhakrishna College of Dental Sciences and Hospital) as well, where all students and working staff can get the treatment done with concessions of 50%. The institute power requirements are met by a dedicated HT power connection from BECOME and captive power generating units. The institute is connected to all the parts of the city by its own fleet of buses. All the students admitted to the institute are covered by insurance for life and medical care.</string>
+    <string name="app_name">SMVITStudentApp</string>
+    <string name="bold" ns1:ignore="ReferenceType">@font/belanosimabold</string>
+    <string name="close">Close</string>
+    <string name="default_web_client_id" translatable="false">140130455846-uc2h807d6jbfug3mtsar3ri3e587otbj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://collegeapp-c237d-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">140130455846</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZqGHAijjtUyQbEi4g8PFfFdl9a8b6UaY</string>
+    <string name="google_app_id" translatable="false">1:140130455846:android:e5b92cbadd5353f0fbf1e7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZqGHAijjtUyQbEi4g8PFfFdl9a8b6UaY</string>
+    <string name="google_storage_bucket" translatable="false">collegeapp-c237d.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">collegeapp-c237d</string>
+    <string name="regular" ns1:ignore="ReferenceType">@font/belanosimaregular</string>
+    <string name="semibold" ns1:ignore="ReferenceType">@font/belanosimasemibold</string>
+    <string name="start">Start</string>
+    <style name="Theme.SMVITStudentApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

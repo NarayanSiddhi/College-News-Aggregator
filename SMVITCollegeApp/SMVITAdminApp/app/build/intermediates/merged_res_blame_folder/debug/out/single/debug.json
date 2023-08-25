@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_circle_yellow.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\circle_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_circle_pink.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\circle_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_ic_image.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_activity_upload_image.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\activity_upload_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_activity_update_faculty.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\activity_update_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_activity_upload_news.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\activity_upload_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.smvitadminapp-merged_res-30:/drawable_ic_launcher.jpg.flat",
+        "source": "com.example.smvitadminapp-main-32:/drawable/ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_activity_update_teacher.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\activity_update_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_no_data_found.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\no_data_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_ic_upload.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\ic_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_newsfeed_item_layout.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\newsfeed_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_faculty_item_layout.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\faculty_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_circle_green.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\circle_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_ic_notice.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\ic_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_activity_delete_news.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\activity_delete_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_circle_red.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\circle_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_activity_add_teacher.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\activity_add_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_circle_purple.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\circle_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_avatarprofile.png.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\avatarprofile.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\layout_activity_upload_pdf.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\layout\\activity_upload_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_ic_gallery.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\ic_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-merged_res-30:\\drawable_ic_group.xml.flat",
+        "source": "C:\\Users\\Siddhi\\.gradle\\daemon\\7.5\\com.example.smvitadminapp-main-32:\\drawable\\ic_group.xml"
+    }
+]

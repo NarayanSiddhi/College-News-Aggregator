@@ -1,0 +1,238 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.smvitadminapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:7:22-77
+13
+14    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+15    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Siddhi\.gradle\caches\transforms-3\c18bd572f0019b515787c3fe5b39489f\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:5-79
+16-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Siddhi\.gradle\caches\transforms-3\c18bd572f0019b515787c3fe5b39489f\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:22-76
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\80a272ab8a4626799ad4217ad7c1559c\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:5-68
+17-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\80a272ab8a4626799ad4217ad7c1559c\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:22-65
+18    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+18-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\80a272ab8a4626799ad4217ad7c1559c\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:5-79
+18-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\80a272ab8a4626799ad4217ad7c1559c\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:22-76
+19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+19-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:5-110
+19-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:22-107
+20
+21    <application
+21-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:9:5-48:19
+22        android:allowBackup="true"
+22-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:10:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.7.0] C:\Users\Siddhi\.gradle\caches\transforms-3\49fae34187a4fbdd50fbb9c5e97c5d2c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:11:9-65
+25        android:debuggable="true"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:12:9-54
+27        android:icon="@drawable/ic_launcher"
+27-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:13:9-45
+28        android:label="@string/app_name"
+28-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:14:9-41
+29        android:supportsRtl="true"
+29-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:15:9-35
+30        android:testOnly="true"
+31        android:theme="@style/Theme.SMVITAdminApp" >
+31-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:16:9-51
+32        <activity
+32-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:18:9-20:40
+33            android:name="com.example.smvitadminapp.news.DeleteNewsActivity"
+33-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:19:13-52
+34            android:exported="false" />
+34-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:20:13-37
+35        <activity
+35-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:21:9-23:40
+36            android:name="com.example.smvitadminapp.faculty.UpdateTeacherActivity"
+36-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:22:13-58
+37            android:exported="false" />
+37-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:23:13-37
+38        <activity
+38-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:24:9-26:40
+39            android:name="com.example.smvitadminapp.faculty.AddTeacher"
+39-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:25:13-47
+40            android:exported="false" />
+40-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:26:13-37
+41        <activity
+41-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:27:9-29:40
+42            android:name="com.example.smvitadminapp.faculty.UpdateFaculty"
+42-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:28:13-50
+43            android:exported="false" />
+43-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:29:13-37
+44        <activity
+44-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:30:9-32:40
+45            android:name="com.example.smvitadminapp.UploadPdfActivity"
+45-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:31:13-46
+46            android:exported="false" />
+46-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:32:13-37
+47        <activity
+47-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:33:9-35:40
+48            android:name="com.example.smvitadminapp.UploadImage"
+48-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:34:13-40
+49            android:exported="false" />
+49-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:35:13-37
+50        <activity
+50-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:36:9-38:40
+51            android:name="com.example.smvitadminapp.news.UploadNews"
+51-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:37:13-44
+52            android:exported="false" />
+52-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:38:13-37
+53        <activity
+53-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:39:9-47:20
+54            android:name="com.example.smvitadminapp.MainActivity"
+54-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:40:13-41
+55            android:exported="true" >
+55-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:41:13-36
+56            <intent-filter>
+56-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:42:13-46:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:43:17-69
+57-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:43:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:45:17-77
+59-->C:\Users\Siddhi\AndroidStudioProjects\SMVITCollegeApp\SMVITAdminApp\app\src\main\AndroidManifest.xml:45:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <service
+63-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Siddhi\.gradle\caches\transforms-3\c18bd572f0019b515787c3fe5b39489f\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+64            android:name="com.google.firebase.components.ComponentDiscoveryService"
+64-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Siddhi\.gradle\caches\transforms-3\c18bd572f0019b515787c3fe5b39489f\transformed\firebase-database-20.2.2\AndroidManifest.xml:29:13-84
+65            android:directBootAware="true"
+65-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Siddhi\.gradle\caches\transforms-3\7e1c11b3611f42791aeaf7d995f11182\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
+66            android:exported="false" >
+66-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Siddhi\.gradle\caches\transforms-3\c18bd572f0019b515787c3fe5b39489f\transformed\firebase-database-20.2.2\AndroidManifest.xml:30:13-37
+67            <meta-data
+67-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Siddhi\.gradle\caches\transforms-3\c18bd572f0019b515787c3fe5b39489f\transformed\firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
+68                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+68-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Siddhi\.gradle\caches\transforms-3\c18bd572f0019b515787c3fe5b39489f\transformed\firebase-database-20.2.2\AndroidManifest.xml:32:17-109
+69                android:value="com.google.firebase.components.ComponentRegistrar" />
+69-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Siddhi\.gradle\caches\transforms-3\c18bd572f0019b515787c3fe5b39489f\transformed\firebase-database-20.2.2\AndroidManifest.xml:33:17-82
+70            <meta-data
+70-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\Siddhi\.gradle\caches\transforms-3\ec75623f641287d1917573224539d2c9\transformed\firebase-storage-20.2.1\AndroidManifest.xml:32:13-34:85
+71                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+71-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\Siddhi\.gradle\caches\transforms-3\ec75623f641287d1917573224539d2c9\transformed\firebase-storage-20.2.1\AndroidManifest.xml:33:17-107
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\Siddhi\.gradle\caches\transforms-3\ec75623f641287d1917573224539d2c9\transformed\firebase-storage-20.2.1\AndroidManifest.xml:34:17-82
+73            <meta-data
+73-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\80a272ab8a4626799ad4217ad7c1559c\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:31:13-33:85
+74                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+74-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\80a272ab8a4626799ad4217ad7c1559c\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:32:17-139
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\80a272ab8a4626799ad4217ad7c1559c\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:33:17-82
+76            <meta-data
+76-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\Siddhi\.gradle\caches\transforms-3\3b814cad246151f201526e2ec79eca09\transformed\firebase-installations-17.1.3\AndroidManifest.xml:17:13-19:85
+77                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+77-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\Siddhi\.gradle\caches\transforms-3\3b814cad246151f201526e2ec79eca09\transformed\firebase-installations-17.1.3\AndroidManifest.xml:18:17-127
+78                android:value="com.google.firebase.components.ComponentRegistrar" />
+78-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\Siddhi\.gradle\caches\transforms-3\3b814cad246151f201526e2ec79eca09\transformed\firebase-installations-17.1.3\AndroidManifest.xml:19:17-82
+79        </service>
+80
+81        <provider
+81-->[com.squareup.picasso:picasso:2.71828] C:\Users\Siddhi\.gradle\caches\transforms-3\1b4773b2e7a79e87e3304291ddd1788d\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+82            android:name="com.squareup.picasso.PicassoProvider"
+82-->[com.squareup.picasso:picasso:2.71828] C:\Users\Siddhi\.gradle\caches\transforms-3\1b4773b2e7a79e87e3304291ddd1788d\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+83            android:authorities="com.example.smvitadminapp.com.squareup.picasso"
+83-->[com.squareup.picasso:picasso:2.71828] C:\Users\Siddhi\.gradle\caches\transforms-3\1b4773b2e7a79e87e3304291ddd1788d\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+84            android:exported="false" />
+84-->[com.squareup.picasso:picasso:2.71828] C:\Users\Siddhi\.gradle\caches\transforms-3\1b4773b2e7a79e87e3304291ddd1788d\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+85        <provider
+85-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Siddhi\.gradle\caches\transforms-3\7e1c11b3611f42791aeaf7d995f11182\transformed\firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+86            android:name="com.google.firebase.provider.FirebaseInitProvider"
+86-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Siddhi\.gradle\caches\transforms-3\7e1c11b3611f42791aeaf7d995f11182\transformed\firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+87            android:authorities="com.example.smvitadminapp.firebaseinitprovider"
+87-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Siddhi\.gradle\caches\transforms-3\7e1c11b3611f42791aeaf7d995f11182\transformed\firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+88            android:directBootAware="true"
+88-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Siddhi\.gradle\caches\transforms-3\7e1c11b3611f42791aeaf7d995f11182\transformed\firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+89            android:exported="false"
+89-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Siddhi\.gradle\caches\transforms-3\7e1c11b3611f42791aeaf7d995f11182\transformed\firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+90            android:initOrder="100" />
+90-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Siddhi\.gradle\caches\transforms-3\7e1c11b3611f42791aeaf7d995f11182\transformed\firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+91
+92        <activity
+92-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Siddhi\.gradle\caches\transforms-3\f644a875751d34810d4b113f91e2e7c9\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+93            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+93-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Siddhi\.gradle\caches\transforms-3\f644a875751d34810d4b113f91e2e7c9\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+94            android:exported="false"
+94-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Siddhi\.gradle\caches\transforms-3\f644a875751d34810d4b113f91e2e7c9\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+95-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Siddhi\.gradle\caches\transforms-3\f644a875751d34810d4b113f91e2e7c9\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+96
+97        <receiver
+97-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:29:9-33:20
+98            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+98-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:30:13-85
+99            android:enabled="true"
+99-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:31:13-35
+100            android:exported="false" >
+100-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:32:13-37
+101        </receiver>
+102
+103        <service
+103-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:35:9-38:40
+104            android:name="com.google.android.gms.measurement.AppMeasurementService"
+104-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:36:13-84
+105            android:enabled="true"
+105-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:37:13-35
+106            android:exported="false" />
+106-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:38:13-37
+107        <service
+107-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:39:9-43:72
+108            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+108-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:40:13-87
+109            android:enabled="true"
+109-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:41:13-35
+110            android:exported="false"
+110-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:42:13-37
+111            android:permission="android.permission.BIND_JOB_SERVICE" />
+111-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Siddhi\.gradle\caches\transforms-3\847e11e56ac7b5c1e230250b3b07ca0c\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:43:13-69
+112
+113        <meta-data
+113-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Siddhi\.gradle\caches\transforms-3\16351dfab03f9f1a97f029a653072885\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+114            android:name="com.google.android.gms.version"
+114-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Siddhi\.gradle\caches\transforms-3\16351dfab03f9f1a97f029a653072885\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+115            android:value="@integer/google_play_services_version" />
+115-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Siddhi\.gradle\caches\transforms-3\16351dfab03f9f1a97f029a653072885\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+116
+117        <provider
+117-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Siddhi\.gradle\caches\transforms-3\46773b2234e326782350ede13cca3e69\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+118            android:name="androidx.startup.InitializationProvider"
+118-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Siddhi\.gradle\caches\transforms-3\46773b2234e326782350ede13cca3e69\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+119            android:authorities="com.example.smvitadminapp.androidx-startup"
+119-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Siddhi\.gradle\caches\transforms-3\46773b2234e326782350ede13cca3e69\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+120            android:exported="false" >
+120-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Siddhi\.gradle\caches\transforms-3\46773b2234e326782350ede13cca3e69\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+121            <meta-data
+121-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Siddhi\.gradle\caches\transforms-3\46773b2234e326782350ede13cca3e69\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+122                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+122-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Siddhi\.gradle\caches\transforms-3\46773b2234e326782350ede13cca3e69\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+123                android:value="androidx.startup" />
+123-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Siddhi\.gradle\caches\transforms-3\46773b2234e326782350ede13cca3e69\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+124            <meta-data
+124-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Siddhi\.gradle\caches\transforms-3\99d6044f7492f6e96a9a644fe3f9fb41\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+125                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+125-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Siddhi\.gradle\caches\transforms-3\99d6044f7492f6e96a9a644fe3f9fb41\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+126                android:value="androidx.startup" />
+126-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Siddhi\.gradle\caches\transforms-3\99d6044f7492f6e96a9a644fe3f9fb41\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+127        </provider>
+128    </application>
+129
+130</manifest>
