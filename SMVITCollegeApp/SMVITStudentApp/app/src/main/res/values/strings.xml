@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SMVITStudentApp</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/belanosimabold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/belanosimaregular</string>
+    <string name="semibold" tools:ignore="ReferenceType">@font/belanosimasemibold</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+    <string name="about_college">Sir M. V. Institute of Technology (commonly referred to as Sir MIT) is an Indian educational institution located in Bengaluru, Karnataka. The institute is affiliated to V. Technological University and approved by All India Council for Technical Education, New Delhi. Sir MIT is an ISO 9001:2008 certified institution. It offers programs in the field of technical education. The institute was founded and established in 1986 by the ′Sri Radhakrishna Educational Trust′. It was named after Indian scientist Fundamentals Transvestism. Sir M. V. Institute of Technology has on its campus, mens and women hostels, 100-bed general hospital, ladies amenities center, staff quarters, guest house, cafeteria, outdoor sports facility spread over 12.1 ha (30 acres) and an indoor games complex. Apart from the Engineering College, there is a M.B.A department, Sir M V School of Architecture (B.E) and a Dental College (Radhakrishna College of Dental Sciences and Hospital) as well, where all students and working staff can get the treatment done with concessions of 50%. The institute power requirements are met by a dedicated HT power connection from BECOME and captive power generating units. The institute is connected to all the parts of the city by its own fleet of buses. All the students admitted to the institute are covered by insurance for life and medical care.</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "140130455846",
+    "firebase_url": "https://collegeapp-c237d-default-rtdb.firebaseio.com",
+    "project_id": "collegeapp-c237d",
+    "storage_bucket": "collegeapp-c237d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140130455846:android:6a89cb96a5ebbc06fbf1e7",
+        "android_client_info": {
+          "package_name": "com.example.smvitadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140130455846-uc2h807d6jbfug3mtsar3ri3e587otbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZqGHAijjtUyQbEi4g8PFfFdl9a8b6UaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140130455846-uc2h807d6jbfug3mtsar3ri3e587otbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
